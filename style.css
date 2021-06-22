@@ -1,3 +1,8 @@
 body {
   background-color: red;
 }
+
+footer {
+  margin: 6px;
+  display: flex;
+}
